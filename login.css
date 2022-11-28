@@ -1,0 +1,17 @@
+html,body { 
+    min-height: 100vh;
+    font-family: 'Open Sans', serif;
+    font-size: 18px;
+    font-weight: 300;
+    background: #eaf8ff; 
+}
+.hero .nav, .hero.is-success .nav {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+input {
+    font-weight: 300;
+}
+p {
+    font-weight: 700;
+}
